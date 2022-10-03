@@ -1,1 +1,1 @@
-console.log(“Hello, Partner2 was here!”);
+console.log(“Hello, Partner2 was here”);
